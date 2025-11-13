@@ -1,7 +1,4 @@
-/* ========================= 
-Global Styles
- ========================= */
-
+/* ========================= Global Styles ========================= */
 htlm, body { 
     height: 100%;
     font-family: "Georgia", serif; 
@@ -126,7 +123,7 @@ nav {
     margin-left: 50px; 
 }
 
-/* Download buttons  */
+/* Download buttons on right */
 .download {
     display: flex;   
     gap: 10px;       
@@ -205,50 +202,6 @@ content-wrapper.figure{
 figure.text-image img { 
     max-width: 100%; 
     height: auto; 
-}
-
-
-/* =========================
-   Index.html Page Layout 
-========================= */
-
-.content-wrapper-index {
-  background: none;
-  display: flex;
-  flex-direction: column; /* stack elements vertically */
-  align-items: center;    /* center horizontally */
-  justify-content: center;
-  gap: 20px; /* spacing between text and image */
-  text-align: center; /* center text content */
-  padding: 20px;
-}
-
-.content-wrapper-index section.index-texte {
-  flex: 0 0 auto;
-  font-size: 1.1rem;
-  background: none;
-  padding: 20px;
-  max-width: 800px;
-  width: 100%;
-  margin: 0 auto;
-}
-
-.index-image {
-  display: flex;              /* use flexbox for easy centering */
-  justify-content: center;    /* center horizontally */
-  align-items: center;        /* center vertically if needed */
-  width: 50%;
-  padding: 10px;
-}
-
-figure.index-image {
-  margin: 0;                  /* remove default figure margin */
-}
-
-figure.index-image img {
-  display: block;
-  max-width: 50%;
-  height: auto;
 }
 
 
