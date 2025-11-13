@@ -4,7 +4,7 @@
 
 Résultat : 
 
-Site déployé sur GitHub Pages  (ici)[https://cuso-2025-ed-num-online.github.io/cours-4_Publier_sur_GitHub-Pages/]
+Site déployé sur GitHub Pages [ici](https://cuso-2025-ed-num-online.github.io/cours-4_Publier_sur_GitHub-Pages/)
 
 ---
 
