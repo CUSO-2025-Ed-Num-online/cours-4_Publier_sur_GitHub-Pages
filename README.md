@@ -42,7 +42,7 @@ N’oubliez pas le fichier `index.html`, positionné à la racine du projet :
 
 ### 🔹 Slides
 
-Le **PDF de la leçon** est disponible dans le dossier [`/slides`](./Slides_CUSO_2025_cours-4_Publier_sur_GitHub_Pages.pdf).
+Le **PDF de la leçon** est disponible dans le dossier [`/Slides`](./Slides/).
 
 ---
 
